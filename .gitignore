@@ -1,0 +1,5 @@
+# Installers are uploaded to GitHub Releases — do not commit them (190MB+ exceeds git limits).
+artifacts/
+*.msi
+*.exe
+*.zip
